@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/pi_temp_log.iml" filepath="$PROJECT_DIR$/.idea/pi_temp_log.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pi_temp_log-local/.idea/pi_temp_log-local.iml" filepath="$PROJECT_DIR$/../pi_temp_log-local/.idea/pi_temp_log-local.iml" />
+    </modules>
+  </component>
+</project>
